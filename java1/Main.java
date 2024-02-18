@@ -470,8 +470,8 @@ class Penalty {
 
 class DatabaseConnector {
     public static final String DB_URL = "jdbc:mysql://localhost:3306/electricity";
-    public static final String USER = "root"; // Modify with your database username
-    public static final String PASSWORD = ""; // Modify with your database password
+    public static final String USER = "root"; 
+    public static final String PASSWORD = "";
 
     public static Connection getConnection() {
         try {
