@@ -1,8 +1,8 @@
-*** Electricity Billing System
+# Electricity Billing System
 
 This is a simple Java application for managing electricity billing. It allows users to add customers, enter bill details, view customer details, pay bills, and perform other related tasks.
 
-** Features
+## Features
 
 - Add new customers with their details (name, address).
 - Enter bill details for customers, including house number, unit rate, and units consumed.
@@ -14,7 +14,7 @@ This is a simple Java application for managing electricity billing. It allows us
 - Update bill details (unit rate, units consumed).
 - Delete bills for customers.
 
-** Prerequisites
+## Prerequisites
 
 - Java Development Kit (JDK) installed
 - MySQL installed and running
